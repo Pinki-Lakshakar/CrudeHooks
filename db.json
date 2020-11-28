@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "emp_name": "Shrikrishna",
+      "emp_email": "ShriKrishna@gmail.com",
+      "emp_designation": "web developer",
+      "emp_location": "Gwalior",
+      "emp_address": "btm",
+      "emp_course": "html developer"
+    },
+    {
+      "id": 2,
+      "emp_name": "Radha",
+      "emp_email": "radha@gmail.com",
+      "emp_designation": "html developer",
+      "emp_location": "Bangalore",
+      "emp_address": "btm",
+      "emp_course": "java  developer"
+    }
+  ]
+}

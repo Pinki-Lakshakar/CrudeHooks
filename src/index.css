@@ -1,0 +1,19 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+
+}
+body{
+    font-family: 'Roboto',Arial, sans-serif;
+    background: #efefef;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
